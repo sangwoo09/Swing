@@ -37,3 +37,6 @@
 
 ## 組織図
 ![image](https://github.com/sangwoo09/Swing/assets/149740298/27950b23-77fe-479f-92e2-960eeead04a0)
+
+https://github.com/sangwoo09/Swing/assets/149740298/07c8ca00-3571-47bf-bd40-477a9bd98782
+
