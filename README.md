@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/JAVA%20-DD0700.svg?&style=for-the-badge&&logoColor=white"/>
     <img src="https://img.shields.io/badge/swing%20-FF6A00.svg?&style=for-the-badge&&logoColor=white"/>
     <img src="https://img.shields.io/badge/eclipse%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL%20-5C1F87.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
 </p> 
 
 <br>
